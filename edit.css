@@ -1,0 +1,20 @@
+.background{
+    color: white;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+    padding: 20px 40px;
+    border-radius: 10px;
+    margin: 10px;
+}
+.profile{
+     text-align: center;
+    color: black;
+}
+
+.profile i{
+    font-size: 39px;
+    color: blue;
+}
+.profile b{
+    font-size: 30px;
+    color: blue;
+}
